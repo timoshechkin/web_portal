@@ -1,0 +1,8 @@
+{
+  "api_url_common": "https://sd.kmz.ru/servicedesk/hs/common",
+  "api_url_service": "https://sd.kmz.ru/servicedesk/hs/service",
+  "api_key": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpaXMiOiJhYzQ0MzI2OC04MTQxLTRjYjMtODdjYy1hYTA2YjZmYzUzZDIiLCJjbGllbnRfaWQiOiJmMzQyMTUyYS0yNzMwLTExZWMtODBmYi05Y2UzNzQ0Mjg5YjciLCJzZWVkIjoiMTFlZDdiZDItNzIwNi00YmRhLTg1ODQtNGYwY2JmYmQ0YzcyIiwicm9sZSI6ItCf0L7Qu9GM0LfQvtCy0LDRgtC10LvRjCJ9.HIg45B7di6_csR3oOat-u2yHJJ62y7SWhojeKGGYVZs",
+  "auth_service": "0JDQtNC80LjQvdC40YHRgtGA0LDRgtC+0YA6Y2Z2amt0bg==",
+  "url_tracker": "/tracker_json.php",
+  "url_carousel_data": "/carousel"
+}
